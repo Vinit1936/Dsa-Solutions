@@ -8,8 +8,7 @@ class Solution {
         // String s2 = new String(s1);
         // String t2 = new String(t1);
         // return s2.equals(t2);
-
-
+//
         char[] freq = new char[26];
 
         for(int i = 0; i<s.length(); i++){
